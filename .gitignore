@@ -1,0 +1,14 @@
+# simulator output
+work/
+transcript
+vsim.wlf
+*.vcd
+*.fst
+*.log
+obj_dir/
+a.out
+*.vvp
+# quartus
+db/
+incremental_db/
+output_files/
